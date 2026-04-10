@@ -46,8 +46,8 @@ A primeira linha contém um inteiro `n` (1 ≤ n ≤ 100). As `n` linhas seguint
 
 Duas seções, nesta ordem:
 
-1. `Matriz original:\n` seguido da matriz completa `n x n` (zeros acima da diagonal), com elementos separados por espaço.
-2. `Transposta:\n` seguido da transposta `n x n`, com elementos separados por espaço.
+1. Matriz original: seguido da matriz completa `n x n` (zeros acima da diagonal), com elementos separados por espaço.
+2. Transposta: seguido da transposta `n x n`, com elementos separados por espaço.
 
 ### Exemplos de entrada e saída
 
